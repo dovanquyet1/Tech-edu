@@ -1,0 +1,16 @@
+-Tài khoản đăng nhập học sinh
+
++Mật khẩu
+ok1234567
+
++Tài khoản
+ducn7128@gmail.com
+-Tài khoản đăng nhập giáo viên
+
++Mật khẩu
+ok1234567
+
++Tài khoản
+ducnm.hrt@gmail.com
+
+
